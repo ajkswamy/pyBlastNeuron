@@ -1,0 +1,17 @@
+From NITRC Vaa3d forums
+
+On Jul 17, 2017  04:07 AM Ajayrama Kumaraswamy wrote:
+
+Dear developers of Blast Neuron
+
+I want to use Blast Neuron to compare some neuron morphologies in SWC files. I got the code for Blast Neuron from http://home.penglab.com/proj/blastneuron... The Readme says: "...make sure you have your neuron database stored in database.ano file". Could you please tell me how to convert a set of SWC files into a database.ano file?
+
+Thank you.
+
+Sincerely
+Ajay
+
+
+On Jul 17, 2017  05:07 AM Zhi Zhou wrote:
+
+Please use "Plug-In"--> "linker_file"-->"Linker_File_Generator"-->"for all SWC (e.g. neuron) files under a directory" to generate the linker file (.ano).

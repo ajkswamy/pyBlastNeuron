@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/penglab/projects/neuron/!svn/ver/529/yinan/pointcloud_match
+END
+q_pointcloud_match_refinematch_affine.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match_refinematch_affine.h
+END
+q_pointcloud_match_refinematch_manifold.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match_refinematch_manifold.h
+END
+main_pointcloud_match.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/penglab/projects/neuron/!svn/ver/529/yinan/pointcloud_match/main_pointcloud_match.cpp
+END
+q_pointcloud_match_initialmatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match_initialmatch.cpp
+END
+q_pointcloud_match_initialmatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match_initialmatch.h
+END
+plugin_pointcloud_match.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/plugin_pointcloud_match.cpp
+END
+q_pointcloud_match.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/penglab/projects/neuron/!svn/ver/529/yinan/pointcloud_match/q_pointcloud_match.cpp
+END
+q_pointcloud_match_basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match_basic.cpp
+END
+q_pointcloud_match_dialogs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match_dialogs.cpp
+END
+main_pointcloud_match.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/main_pointcloud_match.pro
+END
+plugin_pointcloud_match.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/plugin_pointcloud_match.h
+END
+q_pointcloud_match.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match.h
+END
+q_pointcloud_match_basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match_basic.h
+END
+q_pointcloud_match_dialogs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match_dialogs.h
+END
+plugin_pointcloud_match.pro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/plugin_pointcloud_match.pro
+END
+q_pointcloud_match_refinematch_affine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/penglab/projects/neuron/!svn/ver/529/yinan/pointcloud_match/q_pointcloud_match_refinematch_affine.cpp
+END
+q_pointcloud_match_refinematch_manifold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/penglab/projects/neuron/!svn/ver/340/yinan/pointcloud_match/q_pointcloud_match_refinematch_manifold.cpp
+END

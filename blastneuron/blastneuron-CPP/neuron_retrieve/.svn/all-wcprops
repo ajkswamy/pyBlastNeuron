@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/penglab/projects/neuron/!svn/ver/342/yinan/neuron_retrieve
+END
+compute_gmi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/penglab/projects/neuron/!svn/ver/266/yinan/neuron_retrieve/compute_gmi.cpp
+END
+neuron_retrieve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/penglab/projects/neuron/!svn/ver/308/yinan/neuron_retrieve/neuron_retrieve.cpp
+END
+compute_gmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/penglab/projects/neuron/!svn/ver/266/yinan/neuron_retrieve/compute_gmi.h
+END
+batch_compute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/penglab/projects/neuron/!svn/ver/342/yinan/neuron_retrieve/batch_compute.cpp
+END
+sim_measure.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/penglab/projects/neuron/!svn/ver/298/yinan/neuron_retrieve/sim_measure.h
+END
+neuron_retrieve.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/penglab/projects/neuron/!svn/ver/308/yinan/neuron_retrieve/neuron_retrieve.h
+END
+compute_morph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/penglab/projects/neuron/!svn/ver/291/yinan/neuron_retrieve/compute_morph.cpp
+END
+batch_compute.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/penglab/projects/neuron/!svn/ver/266/yinan/neuron_retrieve/batch_compute.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/penglab/projects/neuron/!svn/ver/242/yinan/neuron_retrieve/main.cpp
+END
+prune_short_branch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/penglab/projects/neuron/!svn/ver/271/yinan/neuron_retrieve/prune_short_branch.cpp
+END
+compute_morph.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/penglab/projects/neuron/!svn/ver/291/yinan/neuron_retrieve/compute_morph.h
+END
+neuron_retrieve.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/penglab/projects/neuron/!svn/ver/271/yinan/neuron_retrieve/neuron_retrieve.pro
+END
+main_retrieve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/penglab/projects/neuron/!svn/ver/342/yinan/neuron_retrieve/main_retrieve.cpp
+END
+prune_short_branch.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/penglab/projects/neuron/!svn/ver/271/yinan/neuron_retrieve/prune_short_branch.h
+END
+batch_compute.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/penglab/projects/neuron/!svn/ver/266/yinan/neuron_retrieve/batch_compute.pro
+END
